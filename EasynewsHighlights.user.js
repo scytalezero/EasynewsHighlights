@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name           Easynews Highlights
-// @version        2.9.2
+// @version        2.9.3
 // @namespace      http://ligature.me
-// @description    Highlights THUMB, NFO, PAR, and filenames in global search links.
+// @description    Highlights THUMB, NFO, PAR, NZB, and filenames in global search links.
 // @include        http://members.easynews.com/global4/*
 // @include        http://members.easynews.com/global5/*
 // @include        https://members.easynews.com/global4/*
