@@ -1,16 +1,18 @@
 // ==UserScript==
 // @name           Easynews Highlights
-// @version        2.9.3
+// @version        2.9.4
 // @namespace      http://ligature.me
 // @description    Highlights THUMB, NFO, PAR, NZB, and filenames in global search links.
+// @updateURL      https://github.com/scytalezero/EasynewsHighlights/raw/master/EasynewsHighlights.user.js
 // @include        http://members.easynews.com/global4/*
 // @include        http://members.easynews.com/global5/*
 // @include        https://members.easynews.com/global4/*
 // @include        https://members.easynews.com/global5/*
 // @include        https://secure.members.easynews.com/global4/*
 // @include        https://secure.members.easynews.com/global5/*
+// @require        https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
 // ==/UserScript==
-
+/*
 var $;
 
 // Add jQuery
@@ -37,7 +39,7 @@ function GM_wait() {
     letsJQuery();
   }
 }
-
+*/
 function letsJQuery() {
   var thisElement, regex, original;
 
@@ -75,5 +77,5 @@ function letsJQuery() {
       }
     });
   });
-  
 }
+letsJQuery();
