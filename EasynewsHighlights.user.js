@@ -5,6 +5,7 @@
 // @description    Highlights THUMB, NFO, PAR, NZB, and filenames in global search links.
 // @homepageURL    https://github.com/scytalezero/EasynewsHighlights
 // @updateURL      https://github.com/scytalezero/EasynewsHighlights/raw/master/EasynewsHighlights.user.js
+// @downloadURL    https://github.com/scytalezero/EasynewsHighlights/raw/master/EasynewsHighlights.user.js
 // @icon           https://pbs.twimg.com/profile_images/479627852757733376/8v9zH7Yo_normal.jpeg
 // @include        http://members.easynews.com/global4/*
 // @include        http://members.easynews.com/global5/*
